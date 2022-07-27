@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+@import url(articles/index.css);
+@import url(articles/show.css);
+
+ .main {
+  margin: 100px auto;
+  max-width: 900px;
+}
